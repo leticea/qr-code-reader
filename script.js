@@ -42,3 +42,7 @@ copyBtn.addEventListener("click", () => {
   let text = document.querySelector("textarea").textContent;
   navigator.clipboard.writeText(text);
 });
+
+form.addEventListener("click", () => fileInp.click());
+
+closeBtn.addEventListener("click", () => wrapper.classList.remove("active"));
