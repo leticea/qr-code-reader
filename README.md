@@ -11,7 +11,7 @@
   <img alt="" src=".github/image.png">
 </p>
 
-## QR Code Generator
+## QR Code Reader
 
 ## 🚀 Tecnologias
 
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Gerador de QR Code.
 
-Aula do canal [AsmrProg](https://www.youtube.com/watch?v=I50Xwve6QW4)
+Aula do canal [AsmrProg](https://www.youtube.com/watch?v=e13YYMna74s)
 
 ## 🚀 Como Rodar
 
