@@ -29,7 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Leitor de QR Code da imagem do QR Code gerado no projeto abaixo.
 
-[Gerador de QR Code](https://github.com/leticea/qr-code-generator)<br>
+[Gerador de QR Code](https://github.com/leticea/qr-code-generator)
+
+<br>
+
 Aula do canal [AsmrProg](https://www.youtube.com/watch?v=e13YYMna74s)
 
 ## 🚀 Como Rodar
