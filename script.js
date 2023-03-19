@@ -17,5 +17,9 @@ function fetchRequest(file, formData) {
       infoText.innerText = result
         ? "Upload QR Code To Scan"
         : "Couldn't Scan QR Code";
+      if (!result) return;
+      document.querySelector("textarea").innerText = result;
+      form.querySelector("img").src = URL.createObjectURL(file);
+      wrapper.classList.add("active");
     });
 }
