@@ -29,10 +29,16 @@ function fetchRequest(file, formData) {
 }
 
 // Send QR Code file with request to API
-fileInp.addEventListener("change", async e => {
+fileInp.addEventListener("change", async (e) => {
   let file = e.target.files[0];
   if (!file) return;
   let formData = new FormData();
-  formData.append('file', file);
+  formData.append("file", file);
   fetchRequest(file, formData);
-})
+});
+
+// Copy text to clipboard
+copyBtn.addEventListener("click", () => {
+  let text = document.querySelector("textarea").textContent;
+  navigator.clipboard.writeText(text);
+});
