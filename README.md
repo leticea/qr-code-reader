@@ -11,6 +11,10 @@
   <img alt="" src=".github/image.png">
 </p>
 
+<p align="center">
+  <img alt="" src=".github/image2.png">
+</p>
+
 ## QR Code Reader
 
 ## 🚀 Tecnologias
@@ -23,8 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Gerador de QR Code.
+Leitor de QR Code da imagem do QR Code gerado no projeto abaixo.
 
+[Gerador de QR Code](https://github.com/leticea/qr-code-generator)
 Aula do canal [AsmrProg](https://www.youtube.com/watch?v=e13YYMna74s)
 
 ## 🚀 Como Rodar
